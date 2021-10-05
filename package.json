@@ -55,7 +55,7 @@
     "js-yaml": ">=3.13.1",
     "randomatic": ">=3.0.0",
     "macaddress": ">=0.2.9",
-    "url-parse": ">=1.4.3",
+    "url-parse": ">=1.5.2",
     "lodash": ">=4.17.5",
     "ssri": ">=5.2.2"
   },
